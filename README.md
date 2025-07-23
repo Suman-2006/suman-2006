@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suman Raju K</h1>
+<h1 align="center">Hello!!👋, I'm Suman </h1>
 <h3 align="center">A passionate frontend developer from Karnataka, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-2006&label=Profile%20views&color=0e75b6&style=flat" alt="suman-2006" /> </p>
