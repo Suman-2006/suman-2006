@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman-2006" alt="suman-2006" /></a> </p>
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Frameworks and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suman-2006/My-portfolio](https://github.com/Suman-2006/My-portfolio)
 
